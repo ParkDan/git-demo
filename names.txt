@@ -1,4 +1,9 @@
 NAMES:
+<<<<<<< HEAD
 DevonteSpivey
 Mike Bradshaw
 
+=======
+Lottie Harper
+Cylk Jackson
+>>>>>>> added names
